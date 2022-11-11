@@ -12,7 +12,7 @@ This package also utilizes the method of SUKKAR and CORNELL INTEGRAL to solve st
 
 Just like any other Python package, it can install by simply running the command below on your terminal or command prompt:
 
-* **_pip install static_bhp_**
+* **_pip install static-bhp_**
 
 # dependencies
 
