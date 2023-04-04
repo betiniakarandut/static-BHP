@@ -39,3 +39,6 @@ This package requires:
 - [email] - betiniakarandut@gmail.com
 - Tweeter [@betiniakarandut](https://www.tweeter.com/betiniakarandut)
 - linkedin [Betini Akarandut](https://www.linkedin.com/in/betini-akarandut-24654321a)
+
+## AUTHOR
+- [Betini Akarandut](https://github.com/betiniakarandut) - [@betiniakarandut](https://twitter.com/betiniakarandut)
