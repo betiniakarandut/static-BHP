@@ -14,7 +14,7 @@ Just like any other Python package, it can install by simply running the command
 
 * **_pip install static-bhp_**
 
-## dependencies
+## Dependencies
 
 This package requires:
 
@@ -36,6 +36,6 @@ This package requires:
 
 # Contribution
 * For contributions, suggestions and constructive criticisms reach out to me via:
-- [email](betiniakarandut@gmail.com)
+- [email] - betiniakarandut@gmail.com
 - Tweeter [@betiniakarandut](https://www.tweeter.com/betiniakarandut)
 - linkedin [Betini Akarandut](https://www.linkedin.com/in/betini-akarandut-24654321a)
